@@ -1,0 +1,31 @@
+
+body {
+    background: linear-gradient(to left, #71bedc, #8F00FF);
+    font-size: 110%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    max-height: 500px; 
+    object-fit: contain;
+}
+
+.navbar-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+.googleFont {
+    color: #b7e1f5;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.col-md-4 {
+    padding-bottom: 20%;
+}
+
+
